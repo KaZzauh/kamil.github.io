@@ -33,11 +33,11 @@ Running the commands in your terminal will clone and build a copy of this templa
 
 Start by cloning the repository on your local machine using git
 
-    git clone https://github.com/0xaliraza/0xfolio
+    git clone https://github.com/kamila/portfolio 
 
 Change directory
 
-    cd 0xfolio/
+    cd portfolio/
 
 Install required npm modules for building scss locally
 
@@ -56,7 +56,7 @@ Now let's build all the Sass files to CSS by this useful `build` npm script
 
 ## Authors
 
-[Ali Raza](https://0xali.com) (me) **🙃**
+[Kamil Muntala](https://kamila.com) (me) **🙃**
 
 ## License
 
@@ -66,8 +66,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Feel free to contact me for any kind of help or information. Let's get connected! :)
 
-- [Website](https://0xali.com)
-- [Github](https://github.com/0xaliraza)
-- [Twitter](https://twitter.com/0xaliraza)
-- [Medium](https://medium.com/@0xaliraza)
-- [Linkedin](https://www.linkedin.com/in/ali-raza-937339159/)
+- [Website](https://kamila.com)
+- [Github](https://github.com/kamila)
+- [Twitter](https://twitter.com/kamila)
+- [Medium](https://medium.com/@kamila)
+- [Linkedin](https://www.linkedin.com/in/kamil-muntala-937339159/)
