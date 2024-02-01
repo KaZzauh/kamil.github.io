@@ -2,7 +2,7 @@
 
 0xFolio is a free-to-use portfolio HTML template for developers. It contains very simple, responsive and optmized code. Code is sum of several components which can be reused in any project very easily.
 
-**Live preview:** https://kamila.com/portfolio 
+**Live preview:** https://kamil.com/portfolio 
 
 ![0xFolio preview](https://i.imgur.com/CQFoEmG.png)
 
@@ -56,7 +56,7 @@ Now let's build all the Sass files to CSS by this useful `build` npm script
 
 ## Authors
 
-[Kamil Muntala](https://kamila.com) (me) **🙃**
+[Kamil Muntala](https://kamil.com) (me) **🙃**
 
 ## License
 
@@ -66,8 +66,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Feel free to contact me for any kind of help or information. Let's get connected! :)
 
-- [Website](https://kamila.com)
-- [Github](https://github.com/kamila)
-- [Twitter](https://twitter.com/kamila)
-- [Medium](https://medium.com/@kamila)
+- [Website](https://kamil.com)
+- [Github](https://github.com/kamil)
+- [Twitter](https://twitter.com/kamil)
+- [Medium](https://medium.com/@kamil)
 - [Linkedin](https://www.linkedin.com/in/kamil-muntala-937339159/)
