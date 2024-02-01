@@ -33,7 +33,7 @@ Running the commands in your terminal will clone and build a copy of this templa
 
 Start by cloning the repository on your local machine using git
 
-    git clone https://github.com/kamila/portfolio 
+    git clone https://github.com/kamil/portfolio 
 
 Change directory
 
