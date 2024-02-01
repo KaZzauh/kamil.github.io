@@ -2,7 +2,7 @@
 
 0xFolio is a free-to-use portfolio HTML template for developers. It contains very simple, responsive and optmized code. Code is sum of several components which can be reused in any project very easily.
 
-**Live preview:** https://kamil.com/portfolio 
+**Live preview:** https://Oxali.com/oxfolio 
 
 ![0xFolio preview](https://i.imgur.com/CQFoEmG.png)
 
